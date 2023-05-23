@@ -9,7 +9,7 @@ export const NavigationBar = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               <Nav.Link href="search">Search</Nav.Link>
-              <Nav.Link href="about">About</Nav.Link>
+              <Nav.Link href="signin">Sign In</Nav.Link>
               <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/1">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action/2">Another action</NavDropdown.Item>
